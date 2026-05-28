@@ -20,4 +20,4 @@ Technologies Used
 - Loops
 
 ## Author
-Hema Geddada                                      
+Hema Harshini Geddada                                      
